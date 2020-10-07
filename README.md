@@ -8,10 +8,10 @@
 4. npm start
 ``` 
 > This will start the Express server with a GET and POST route. 
-##### To test the GET route, type ```http://localhost:4000/login``` in the browser
+##### To test the `GET` route, type ```http://localhost:4000/login``` in the browser
 
 
-##### To test the POST route, send a post request to ```http://localhost:4000/login``` with body params ```username``` and ```password```
+##### To test the `POST` route, send a post request to ```http://localhost:4000/login``` with body params ```username``` and ```password```
 
 ### test accounts to test - 
 Username | password
