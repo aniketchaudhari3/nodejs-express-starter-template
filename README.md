@@ -13,7 +13,7 @@
 
 ##### To test the `POST` route, send a post request to ```http://localhost:4000/login``` with body params ```username``` and ```password```
 
-### test accounts to test - 
+### test accounts in models - 
 Username | password
 ------------ | -------------
 aniket  | 123
